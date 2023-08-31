@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: #f0f0f0;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+form {
+    background-color: #fff;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 400px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+label {
+    display: flex;
+    margin-bottom: 5px;
+    padding: auto;
+    margin: auto;
+}
+
+input {
+    width: 100%;
+    padding: auto;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+
+.descricao {
+        white-space: normal; /* Isso faz com que o texto seja quebrado em várias linhas */
+}
